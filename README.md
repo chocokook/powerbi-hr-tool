@@ -1,21 +1,38 @@
-# Power BI HR Dashboard
+# 👩‍💼 Power BI HR Dashboard
 
-This project is an interactive HR analytics dashboard built using Power BI.
+An interactive Human Resources analytics dashboard built with Power BI.  
+This dashboard provides insights into employee demographics, turnover, hiring trends, and more.
 
-## 📊 Key Features
-- Employee distribution by department and gender
-- Turnover analysis
-- Hiring trends over time
-- Insights into job satisfaction and compensation
-
-## 📁 Files
-- `PowerBI Report Project - HR Tool.pbix`: The main Power BI dashboard file.
-
-## 📝 How to Use
-1. Download the `.pbix` file.
-2. Open it in Power BI Desktop.
-3. Refresh the data (if needed) and explore!
+📌 **Live Dashboard (Public Preview)**  
+👉 [Click here to view the report online](https://app.powerbi.com/view?r=your-report-link)  
+*(Hosted on Power BI Service — interactive & publicly accessible)*
 
 ---
 
-Feel free to share feedback or suggestions!
+## 📊 Features
+
+- 📍 Department & gender distribution
+- 📈 Hiring trends & turnover analysis
+- 🎯 Job satisfaction and compensation metrics
+- 🧩 Filterable by year, department, and role
+
+---
+
+## 📁 Files
+
+- [`PowerBI Report Project - HR Tool.pbix`](./PowerBI%20Report%20Project%20-%20HR%20Tool.pbix): Power BI Desktop file for offline use or customization.
+
+---
+
+## 🛠️ How to Open Locally
+
+1. Download the `.pbix` file above.
+2. Open with [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
+3. Refresh the data if needed and explore the visuals.
+
+---
+
+## 💬 Feedback
+
+Feel free to open an issue or reach out if you have suggestions or questions!
+
