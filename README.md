@@ -4,7 +4,7 @@ An interactive Human Resources analytics dashboard built with Power BI.
 This dashboard provides insights into employee demographics, turnover, hiring trends, and more.
 
 📌 **Live Dashboard (Public Preview)**  
-👉 [Click here to view the report online](https://app.powerbi.com/view?r=your-report-link)  
+👉 https://app.powerbi.com/view?r=eyJrIjoiNmU5ODgwOTEtYzUxMS00ZTlmLWI2ZmYtZDRmNDU2N2NlOTBjIiwidCI6ImNiNzJjNTRlLTRhMzEtNGQ5ZS1iMTRhLTFlYTM2ZGZhYzk0YyIsImMiOjF9
 *(Hosted on Power BI Service — interactive & publicly accessible)*
 
 ---
